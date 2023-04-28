@@ -83,6 +83,7 @@ body {
     gap: 40px;
     color: var(--secondary-txt-cl);
     font-weight: 500;
+    padding: 24px 0;
 }
 
 .header-nav {
